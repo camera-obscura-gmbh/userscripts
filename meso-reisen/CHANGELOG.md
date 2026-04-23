@@ -1,3 +1,6 @@
+## 1.2
+- URLs angepasst
+
 ## 1.1
 - Umzug von FTP nach Github
 
