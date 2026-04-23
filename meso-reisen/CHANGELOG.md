@@ -1,3 +1,6 @@
+## 1.3
+- Support URL geändert
+
 ## 1.2
 - URLs angepasst
 
