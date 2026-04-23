@@ -9,7 +9,7 @@
 // @grant        GM_addStyle
 // @updateURL    https://github.com/camera-obscura-gmbh/userscripts/raw/refs/heads/main/meso-reisen/meso-reisen.user.js
 // @downloadURL  https://github.com/camera-obscura-gmbh/userscripts/raw/refs/heads/main/meso-reisen/meso-reisen.user.js
-// @supportURL   https://github.com/camera-obscura-gmbh/userscripts/blob/main/meso-reisen/CHANGELOG.md
+// @supportURL   https://github.com/camera-obscura-gmbh/userscripts/issues
 // ==/UserScript==
 
 GM_addStyle(".trs_txt_bx { display: block; }");
