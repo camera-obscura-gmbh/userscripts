@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MESO Reisen
 // @namespace    https://camera-obscura.agency
-// @version      1.01
+// @version      1.1
 // @description  Öffnet alle Einträge im Reiseverlauf
 // @author       camera obscura
 // @match        https://www.meso-berlin.de/*
@@ -9,9 +9,7 @@
 // @grant        GM_addStyle
 // @updateURL    https://camera-obscura.agency/userscripts/meso-reisen.user.js
 // @downloadURL  https://camera-obscura.agency/userscripts/meso-reisen.user.js
+// @supportURL   https://github.com/camera-obscura-gmbh/Userscripts/blob/main/meso-reisen/CHANGELOG.md
 // ==/UserScript==
-
-// Changelog
-// https://camera-obscura.agency/userscripts/meso-reisen.txt
 
 GM_addStyle(".trs_txt_bx { display: block; }");
