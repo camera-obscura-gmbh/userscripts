@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MESO Reisen
 // @namespace    https://camera-obscura.agency
-// @version      1.1
+// @version      1.2
 // @description  Öffnet alle Einträge im Reiseverlauf
 // @author       camera obscura
 // @match        https://www.meso-berlin.de/*
